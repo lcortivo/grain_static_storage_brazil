@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Conab - Companhia Nacional de Abastecimento</title>
+</head>
+<body><table	align="center" width="95%" cellpadding="2" cellspacing="2" rules="all" style="font-size:9px; border-bottom-color:{$this->borderColor}; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-left-color:{$this->borderColor}; border-left-style:solid; border-left-width:1px; border-right-color:{$this->borderColor};border-right-style:solid; border-right-width:1px; border-top-color:{$this->borderColor}; border-top-style:solid;border-top-width:1px;" border="1" >
+                    <thead>
+                    <tr>
+    <td colspan="7" align="center" style="background-color:#FFFFFF; color:#000000; font-size:9px;">
+        <span>
+        <table width="95%" border="0px" style="text-align : center; font-size:9px;">
+            <tr>
+                <td width="15%" rowspan="3" valign="top">
+                    <div align="left">
+                        <img src=http://sisdep.conab.gov.br/capacidadeestatica//common/images/Conab.jpg alt="" style="border-width:0px;" />
+                    </div>
+                </td>
+                <td width="75%" align="center">
+                    <span><strong><span style="font-size:14px;">Mapa da Capacidade Estática dos Armazéns</span></strong></span>
+                </td>
+                <td width="10%" rowspan="3">
+                    <span><strong>04/10/2019<br>13:14:01</strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong><span style="font-size:12px;"><table width="100%" style="width: 100%"><tr><td align='right'>Região:</td><td align='left'>Nordeste</td></tr><tr><td align='right'>UF:</td><td align='left'>AL</td></tr></table></span></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" align="center">
+                    <div align="center">
+                        <span><strong></strong></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        </span>
+    </td>
+</tr>
+                    <tr>
+                        <th rowspan="2" align="center">Município</th>
+                        <th colspan="2" align="center">Convencional</th>
+                        <th colspan="2" align="center">Granel</th>
+                        <th colspan="2" align="center">Total</th>
+                    </tr>
+                    <tr>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                    </tr>
+                    </thead><tr>
+                        <td nowrap>Arapiraca</td>
+                        <td align='right'>1</td>
+                        <td align='right'>4657</td>
+                        <td align='right'>2</td>
+                        <td align='right'>6570</td>
+                        <td align='right'>3</td>
+                        <td align='right'>11227</td>
+                    </tr><tr>
+                        <td nowrap>Coruripe</td>
+                        <td align='right'>5</td>
+                        <td align='right'>22992</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>5</td>
+                        <td align='right'>22992</td>
+                    </tr><tr>
+                        <td nowrap>Igreja Nova</td>
+                        <td align='right'>2</td>
+                        <td align='right'>4277</td>
+                        <td align='right'>2</td>
+                        <td align='right'>8110</td>
+                        <td align='right'>4</td>
+                        <td align='right'>12387</td>
+                    </tr><tr>
+                        <td nowrap>Maceió</td>
+                        <td align='right'>22</td>
+                        <td align='right'>81352</td>
+                        <td align='right'>8</td>
+                        <td align='right'>221260</td>
+                        <td align='right'>30</td>
+                        <td align='right'>302612</td>
+                    </tr><tr>
+                        <td nowrap>Marechal Deodoro</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>88398</td>
+                        <td align='right'>1</td>
+                        <td align='right'>88398</td>
+                    </tr><tr>
+                        <td nowrap>Matriz de Camaragibe</td>
+                        <td align='right'>6</td>
+                        <td align='right'>7821</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>6</td>
+                        <td align='right'>7821</td>
+                    </tr><tr>
+                        <td nowrap>Palmeira dos Índios</td>
+                        <td align='right'>1</td>
+                        <td align='right'>3200</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>3200</td>
+                    </tr><tr>
+                        <td nowrap>Rio Largo</td>
+                        <td align='right'>3</td>
+                        <td align='right'>14474</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>3</td>
+                        <td align='right'>14474</td>
+                    </tr><tr>
+                        <td nowrap>São Brás</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>890</td>
+                        <td align='right'>1</td>
+                        <td align='right'>890</td>
+                    </tr><tr>
+                        <td nowrap>São Luís do Quitunde</td>
+                        <td align='right'>11</td>
+                        <td align='right'>28809</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>11</td>
+                        <td align='right'>28809</td>
+                    </tr><tr>
+                        <td nowrap>São Miguel dos Campos</td>
+                        <td align='right'>4</td>
+                        <td align='right'>32768</td>
+                        <td align='right'>1</td>
+                        <td align='right'>22018</td>
+                        <td align='right'>5</td>
+                        <td align='right'>54786</td>
+                    </tr><tr>
+                        <td nowrap>União dos Palmares</td>
+                        <td align='right'>2</td>
+                        <td align='right'>1511</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1610</td>
+                        <td align='right'>3</td>
+                        <td align='right'>3121</td>
+                    </tr><tr>
+                        <td nowrap><div align="center"><b>Total Geral</b></div></td>
+                        <td align='right'><b>57<b></td>
+                        <td align='right'><b>201861<b></td>
+                        <td align='right'><b>16<b></td>
+                        <td align='right'><b>348856<b></td>
+                        <td align='right'><b>73<b></td>
+                        <td align='right'><b>550717<b></td>
+                    </tr></table></body>
+</html>

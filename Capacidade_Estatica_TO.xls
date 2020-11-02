@@ -1,0 +1,389 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Conab - Companhia Nacional de Abastecimento</title>
+</head>
+<body><table	align="center" width="95%" cellpadding="2" cellspacing="2" rules="all" style="font-size:9px; border-bottom-color:{$this->borderColor}; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-left-color:{$this->borderColor}; border-left-style:solid; border-left-width:1px; border-right-color:{$this->borderColor};border-right-style:solid; border-right-width:1px; border-top-color:{$this->borderColor}; border-top-style:solid;border-top-width:1px;" border="1" >
+                    <thead>
+                    <tr>
+    <td colspan="7" align="center" style="background-color:#FFFFFF; color:#000000; font-size:9px;">
+        <span>
+        <table width="95%" border="0px" style="text-align : center; font-size:9px;">
+            <tr>
+                <td width="15%" rowspan="3" valign="top">
+                    <div align="left">
+                        <img src=http://sisdep.conab.gov.br/capacidadeestatica//common/images/Conab.jpg alt="" style="border-width:0px;" />
+                    </div>
+                </td>
+                <td width="75%" align="center">
+                    <span><strong><span style="font-size:14px;">Mapa da Capacidade Estática dos Armazéns</span></strong></span>
+                </td>
+                <td width="10%" rowspan="3">
+                    <span><strong>04/10/2019<br>13:13:27</strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong><span style="font-size:12px;"><table width="100%" style="width: 100%"><tr><td align='right'>Região:</td><td align='left'>Norte</td></tr><tr><td align='right'>UF:</td><td align='left'>TO</td></tr></table></span></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" align="center">
+                    <div align="center">
+                        <span><strong></strong></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        </span>
+    </td>
+</tr>
+                    <tr>
+                        <th rowspan="2" align="center">Município</th>
+                        <th colspan="2" align="center">Convencional</th>
+                        <th colspan="2" align="center">Granel</th>
+                        <th colspan="2" align="center">Total</th>
+                    </tr>
+                    <tr>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                    </tr>
+                    </thead><tr>
+                        <td nowrap>Almas</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>16320</td>
+                        <td align='right'>1</td>
+                        <td align='right'>16320</td>
+                    </tr><tr>
+                        <td nowrap>Alvorada</td>
+                        <td align='right'>1</td>
+                        <td align='right'>13476</td>
+                        <td align='right'>4</td>
+                        <td align='right'>90360</td>
+                        <td align='right'>5</td>
+                        <td align='right'>103836</td>
+                    </tr><tr>
+                        <td nowrap>Aparecida do Rio Negro</td>
+                        <td align='right'>1</td>
+                        <td align='right'>3375</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>3375</td>
+                    </tr><tr>
+                        <td nowrap>Araguacema</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1890</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1705</td>
+                        <td align='right'>2</td>
+                        <td align='right'>3595</td>
+                    </tr><tr>
+                        <td nowrap>Araguaína</td>
+                        <td align='right'>4</td>
+                        <td align='right'>7495</td>
+                        <td align='right'>2</td>
+                        <td align='right'>4206</td>
+                        <td align='right'>6</td>
+                        <td align='right'>11701</td>
+                    </tr><tr>
+                        <td nowrap>Barra do Ouro</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>6380</td>
+                        <td align='right'>1</td>
+                        <td align='right'>6380</td>
+                    </tr><tr>
+                        <td nowrap>Bom Jesus do Tocantins</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>600</td>
+                        <td align='right'>1</td>
+                        <td align='right'>600</td>
+                    </tr><tr>
+                        <td nowrap>Brejinho de Nazaré</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>3480</td>
+                        <td align='right'>1</td>
+                        <td align='right'>3480</td>
+                    </tr><tr>
+                        <td nowrap>Campos Lindos</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>7</td>
+                        <td align='right'>141103</td>
+                        <td align='right'>7</td>
+                        <td align='right'>141103</td>
+                    </tr><tr>
+                        <td nowrap>Cariri do Tocantins</td>
+                        <td align='right'>3</td>
+                        <td align='right'>31515</td>
+                        <td align='right'>7</td>
+                        <td align='right'>73096</td>
+                        <td align='right'>10</td>
+                        <td align='right'>104611</td>
+                    </tr><tr>
+                        <td nowrap>Caseara</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>5</td>
+                        <td align='right'>115620</td>
+                        <td align='right'>5</td>
+                        <td align='right'>115620</td>
+                    </tr><tr>
+                        <td nowrap>Chapada da Natividade</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1727</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2329</td>
+                        <td align='right'>2</td>
+                        <td align='right'>4056</td>
+                    </tr><tr>
+                        <td nowrap>Cristalândia</td>
+                        <td align='right'>3</td>
+                        <td align='right'>17626</td>
+                        <td align='right'>1</td>
+                        <td align='right'>12130</td>
+                        <td align='right'>4</td>
+                        <td align='right'>29756</td>
+                    </tr><tr>
+                        <td nowrap>Darcinópolis</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>9710</td>
+                        <td align='right'>1</td>
+                        <td align='right'>9710</td>
+                    </tr><tr>
+                        <td nowrap>Dianópolis</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>3</td>
+                        <td align='right'>53437</td>
+                        <td align='right'>3</td>
+                        <td align='right'>53437</td>
+                    </tr><tr>
+                        <td nowrap>Dueré</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2386</td>
+                        <td align='right'>1</td>
+                        <td align='right'>14070</td>
+                        <td align='right'>2</td>
+                        <td align='right'>16456</td>
+                    </tr><tr>
+                        <td nowrap>Figueirópolis</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>85610</td>
+                        <td align='right'>2</td>
+                        <td align='right'>85610</td>
+                    </tr><tr>
+                        <td nowrap>Formoso do Araguaia</td>
+                        <td align='right'>13</td>
+                        <td align='right'>105502</td>
+                        <td align='right'>10</td>
+                        <td align='right'>217159</td>
+                        <td align='right'>23</td>
+                        <td align='right'>322661</td>
+                    </tr><tr>
+                        <td nowrap>Fortaleza do Tabocão</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>34210</td>
+                        <td align='right'>1</td>
+                        <td align='right'>34210</td>
+                    </tr><tr>
+                        <td nowrap>Guaraí</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1350</td>
+                        <td align='right'>3</td>
+                        <td align='right'>21071</td>
+                        <td align='right'>4</td>
+                        <td align='right'>22421</td>
+                    </tr><tr>
+                        <td nowrap>Gurupi</td>
+                        <td align='right'>1</td>
+                        <td align='right'>32400</td>
+                        <td align='right'>1</td>
+                        <td align='right'>33140</td>
+                        <td align='right'>2</td>
+                        <td align='right'>65540</td>
+                    </tr><tr>
+                        <td nowrap>Itapiratins</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>2687</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2687</td>
+                    </tr><tr>
+                        <td nowrap>Lagoa da Confusão</td>
+                        <td align='right'>10</td>
+                        <td align='right'>54164</td>
+                        <td align='right'>17</td>
+                        <td align='right'>265761</td>
+                        <td align='right'>27</td>
+                        <td align='right'>319925</td>
+                    </tr><tr>
+                        <td nowrap>Marianópolis do Tocantins</td>
+                        <td align='right'>1</td>
+                        <td align='right'>8185</td>
+                        <td align='right'>3</td>
+                        <td align='right'>25900</td>
+                        <td align='right'>4</td>
+                        <td align='right'>34085</td>
+                    </tr><tr>
+                        <td nowrap>Miracema do Tocantins</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1507</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>1507</td>
+                    </tr><tr>
+                        <td nowrap>Miranorte</td>
+                        <td align='right'>1</td>
+                        <td align='right'>3352</td>
+                        <td align='right'>1</td>
+                        <td align='right'>63600</td>
+                        <td align='right'>2</td>
+                        <td align='right'>66952</td>
+                    </tr><tr>
+                        <td nowrap>Palmas</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2126</td>
+                        <td align='right'>2</td>
+                        <td align='right'>7784</td>
+                        <td align='right'>3</td>
+                        <td align='right'>9910</td>
+                    </tr><tr>
+                        <td nowrap>Palmeirante</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>29730</td>
+                        <td align='right'>2</td>
+                        <td align='right'>29730</td>
+                    </tr><tr>
+                        <td nowrap>Palmeirópolis</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2700</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>2700</td>
+                    </tr><tr>
+                        <td nowrap>Paraíso do Tocantins</td>
+                        <td align='right'>4</td>
+                        <td align='right'>13364</td>
+                        <td align='right'>4</td>
+                        <td align='right'>43674</td>
+                        <td align='right'>8</td>
+                        <td align='right'>57038</td>
+                    </tr><tr>
+                        <td nowrap>Pedro Afonso</td>
+                        <td align='right'>2</td>
+                        <td align='right'>4663</td>
+                        <td align='right'>4</td>
+                        <td align='right'>84594</td>
+                        <td align='right'>6</td>
+                        <td align='right'>89257</td>
+                    </tr><tr>
+                        <td nowrap>Peixe</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>2930</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2930</td>
+                    </tr><tr>
+                        <td nowrap>Piraquê</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>14620</td>
+                        <td align='right'>1</td>
+                        <td align='right'>14620</td>
+                    </tr><tr>
+                        <td nowrap>Pium</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2700</td>
+                        <td align='right'>2</td>
+                        <td align='right'>13217</td>
+                        <td align='right'>3</td>
+                        <td align='right'>15917</td>
+                    </tr><tr>
+                        <td nowrap>Porto Nacional</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>10</td>
+                        <td align='right'>189480</td>
+                        <td align='right'>10</td>
+                        <td align='right'>189480</td>
+                    </tr><tr>
+                        <td nowrap>Santa Rosa do Tocantins</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>4</td>
+                        <td align='right'>117900</td>
+                        <td align='right'>4</td>
+                        <td align='right'>117900</td>
+                    </tr><tr>
+                        <td nowrap>Silvanópolis</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>5</td>
+                        <td align='right'>138200</td>
+                        <td align='right'>5</td>
+                        <td align='right'>138200</td>
+                    </tr><tr>
+                        <td nowrap>Talismã</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2250</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1530</td>
+                        <td align='right'>2</td>
+                        <td align='right'>3780</td>
+                    </tr><tr>
+                        <td nowrap>Tocantinópolis</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1296</td>
+                        <td align='right'>1</td>
+                        <td align='right'>3676</td>
+                        <td align='right'>2</td>
+                        <td align='right'>4972</td>
+                    </tr><tr>
+                        <td nowrap>Tupirama</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>32000</td>
+                        <td align='right'>1</td>
+                        <td align='right'>32000</td>
+                    </tr><tr>
+                        <td nowrap><div align="center"><b>Total Geral</b></div></td>
+                        <td align='right'><b>54<b></td>
+                        <td align='right'><b>315049<b></td>
+                        <td align='right'><b>114<b></td>
+                        <td align='right'><b>1973019<b></td>
+                        <td align='right'><b>168<b></td>
+                        <td align='right'><b>2288068<b></td>
+                    </tr></table></body>
+</html>

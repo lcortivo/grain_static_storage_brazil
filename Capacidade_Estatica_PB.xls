@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Conab - Companhia Nacional de Abastecimento</title>
+</head>
+<body><table	align="center" width="95%" cellpadding="2" cellspacing="2" rules="all" style="font-size:9px; border-bottom-color:{$this->borderColor}; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-left-color:{$this->borderColor}; border-left-style:solid; border-left-width:1px; border-right-color:{$this->borderColor};border-right-style:solid; border-right-width:1px; border-top-color:{$this->borderColor}; border-top-style:solid;border-top-width:1px;" border="1" >
+                    <thead>
+                    <tr>
+    <td colspan="7" align="center" style="background-color:#FFFFFF; color:#000000; font-size:9px;">
+        <span>
+        <table width="95%" border="0px" style="text-align : center; font-size:9px;">
+            <tr>
+                <td width="15%" rowspan="3" valign="top">
+                    <div align="left">
+                        <img src=http://sisdep.conab.gov.br/capacidadeestatica//common/images/Conab.jpg alt="" style="border-width:0px;" />
+                    </div>
+                </td>
+                <td width="75%" align="center">
+                    <span><strong><span style="font-size:14px;">Mapa da Capacidade Estática dos Armazéns</span></strong></span>
+                </td>
+                <td width="10%" rowspan="3">
+                    <span><strong>04/10/2019<br>13:15:55</strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong><span style="font-size:12px;"><table width="100%" style="width: 100%"><tr><td align='right'>Região:</td><td align='left'>Nordeste</td></tr><tr><td align='right'>UF:</td><td align='left'>PB</td></tr></table></span></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" align="center">
+                    <div align="center">
+                        <span><strong></strong></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        </span>
+    </td>
+</tr>
+                    <tr>
+                        <th rowspan="2" align="center">Município</th>
+                        <th colspan="2" align="center">Convencional</th>
+                        <th colspan="2" align="center">Granel</th>
+                        <th colspan="2" align="center">Total</th>
+                    </tr>
+                    <tr>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                    </tr>
+                    </thead><tr>
+                        <td nowrap>Cabedelo</td>
+                        <td align='right'>7</td>
+                        <td align='right'>17691</td>
+                        <td align='right'>2</td>
+                        <td align='right'>29650</td>
+                        <td align='right'>9</td>
+                        <td align='right'>47341</td>
+                    </tr><tr>
+                        <td nowrap>Campina Grande</td>
+                        <td align='right'>1</td>
+                        <td align='right'>7000</td>
+                        <td align='right'>1</td>
+                        <td align='right'>6080</td>
+                        <td align='right'>2</td>
+                        <td align='right'>13080</td>
+                    </tr><tr>
+                        <td nowrap>Cuité</td>
+                        <td align='right'>2</td>
+                        <td align='right'>792</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>792</td>
+                    </tr><tr>
+                        <td nowrap>João Pessoa</td>
+                        <td align='right'>1</td>
+                        <td align='right'>8900</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>8900</td>
+                    </tr><tr>
+                        <td nowrap>Monteiro</td>
+                        <td align='right'>1</td>
+                        <td align='right'>3500</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>3500</td>
+                    </tr><tr>
+                        <td nowrap>Patos</td>
+                        <td align='right'>3</td>
+                        <td align='right'>10198</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>3</td>
+                        <td align='right'>10198</td>
+                    </tr><tr>
+                        <td nowrap>Santa Rita</td>
+                        <td align='right'>4</td>
+                        <td align='right'>6530</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>4</td>
+                        <td align='right'>6530</td>
+                    </tr><tr>
+                        <td nowrap><div align="center"><b>Total Geral</b></div></td>
+                        <td align='right'><b>19<b></td>
+                        <td align='right'><b>54611<b></td>
+                        <td align='right'><b>3<b></td>
+                        <td align='right'><b>35730<b></td>
+                        <td align='right'><b>22<b></td>
+                        <td align='right'><b>90341<b></td>
+                    </tr></table></body>
+</html>

@@ -1,0 +1,805 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Conab - Companhia Nacional de Abastecimento</title>
+</head>
+<body><table	align="center" width="95%" cellpadding="2" cellspacing="2" rules="all" style="font-size:9px; border-bottom-color:{$this->borderColor}; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-left-color:{$this->borderColor}; border-left-style:solid; border-left-width:1px; border-right-color:{$this->borderColor};border-right-style:solid; border-right-width:1px; border-top-color:{$this->borderColor}; border-top-style:solid;border-top-width:1px;" border="1" >
+                    <thead>
+                    <tr>
+    <td colspan="7" align="center" style="background-color:#FFFFFF; color:#000000; font-size:9px;">
+        <span>
+        <table width="95%" border="0px" style="text-align : center; font-size:9px;">
+            <tr>
+                <td width="15%" rowspan="3" valign="top">
+                    <div align="left">
+                        <img src=http://sisdep.conab.gov.br/capacidadeestatica//common/images/Conab.jpg alt="" style="border-width:0px;" />
+                    </div>
+                </td>
+                <td width="75%" align="center">
+                    <span><strong><span style="font-size:14px;">Mapa da Capacidade Estática dos Armazéns</span></strong></span>
+                </td>
+                <td width="10%" rowspan="3">
+                    <span><strong>04/10/2019<br>13:20:02</strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong><span style="font-size:12px;"><table width="100%" style="width: 100%"><tr><td align='right'>Região:</td><td align='left'>Centro-Oeste</td></tr><tr><td align='right'>UF:</td><td align='left'>MT</td></tr></table></span></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" align="center">
+                    <div align="center">
+                        <span><strong></strong></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        </span>
+    </td>
+</tr>
+                    <tr>
+                        <th rowspan="2" align="center">Município</th>
+                        <th colspan="2" align="center">Convencional</th>
+                        <th colspan="2" align="center">Granel</th>
+                        <th colspan="2" align="center">Total</th>
+                    </tr>
+                    <tr>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                    </tr>
+                    </thead><tr>
+                        <td nowrap>Água Boa</td>
+                        <td align='right'>6</td>
+                        <td align='right'>21430</td>
+                        <td align='right'>12</td>
+                        <td align='right'>261300</td>
+                        <td align='right'>18</td>
+                        <td align='right'>282730</td>
+                    </tr><tr>
+                        <td nowrap>Alta Floresta</td>
+                        <td align='right'>3</td>
+                        <td align='right'>8630</td>
+                        <td align='right'>4</td>
+                        <td align='right'>32120</td>
+                        <td align='right'>7</td>
+                        <td align='right'>40750</td>
+                    </tr><tr>
+                        <td nowrap>Alto Araguaia</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2267</td>
+                        <td align='right'>10</td>
+                        <td align='right'>470010</td>
+                        <td align='right'>11</td>
+                        <td align='right'>472277</td>
+                    </tr><tr>
+                        <td nowrap>Alto Boa Vista</td>
+                        <td align='right'>3</td>
+                        <td align='right'>3849</td>
+                        <td align='right'>3</td>
+                        <td align='right'>33148</td>
+                        <td align='right'>6</td>
+                        <td align='right'>36997</td>
+                    </tr><tr>
+                        <td nowrap>Alto Garças</td>
+                        <td align='right'>6</td>
+                        <td align='right'>113335</td>
+                        <td align='right'>26</td>
+                        <td align='right'>302240</td>
+                        <td align='right'>32</td>
+                        <td align='right'>415575</td>
+                    </tr><tr>
+                        <td nowrap>Alto Paraguai</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>8490</td>
+                        <td align='right'>2</td>
+                        <td align='right'>8490</td>
+                    </tr><tr>
+                        <td nowrap>Alto Taquari</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>26</td>
+                        <td align='right'>177484</td>
+                        <td align='right'>26</td>
+                        <td align='right'>177484</td>
+                    </tr><tr>
+                        <td nowrap>Araputanga</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>4490</td>
+                        <td align='right'>1</td>
+                        <td align='right'>4490</td>
+                    </tr><tr>
+                        <td nowrap>Barra do Bugres</td>
+                        <td align='right'>2</td>
+                        <td align='right'>81202</td>
+                        <td align='right'>1</td>
+                        <td align='right'>9300</td>
+                        <td align='right'>3</td>
+                        <td align='right'>90502</td>
+                    </tr><tr>
+                        <td nowrap>Barra do Garças</td>
+                        <td align='right'>1</td>
+                        <td align='right'>8100</td>
+                        <td align='right'>3</td>
+                        <td align='right'>43690</td>
+                        <td align='right'>4</td>
+                        <td align='right'>51790</td>
+                    </tr><tr>
+                        <td nowrap>Bom Jesus do Araguaia</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>10</td>
+                        <td align='right'>272975</td>
+                        <td align='right'>10</td>
+                        <td align='right'>272975</td>
+                    </tr><tr>
+                        <td nowrap>Brasnorte</td>
+                        <td align='right'>1</td>
+                        <td align='right'>490</td>
+                        <td align='right'>40</td>
+                        <td align='right'>677330</td>
+                        <td align='right'>41</td>
+                        <td align='right'>677820</td>
+                    </tr><tr>
+                        <td nowrap>Cáceres</td>
+                        <td align='right'>1</td>
+                        <td align='right'>7840</td>
+                        <td align='right'>4</td>
+                        <td align='right'>23424</td>
+                        <td align='right'>5</td>
+                        <td align='right'>31264</td>
+                    </tr><tr>
+                        <td nowrap>Campinápolis</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>4850</td>
+                        <td align='right'>1</td>
+                        <td align='right'>4850</td>
+                    </tr><tr>
+                        <td nowrap>Campo Novo do Parecis</td>
+                        <td align='right'>18</td>
+                        <td align='right'>38572</td>
+                        <td align='right'>95</td>
+                        <td align='right'>1795598</td>
+                        <td align='right'>113</td>
+                        <td align='right'>1834170</td>
+                    </tr><tr>
+                        <td nowrap>Campos de Júlio</td>
+                        <td align='right'>12</td>
+                        <td align='right'>26130</td>
+                        <td align='right'>50</td>
+                        <td align='right'>749542</td>
+                        <td align='right'>62</td>
+                        <td align='right'>775672</td>
+                    </tr><tr>
+                        <td nowrap>Campo Verde</td>
+                        <td align='right'>24</td>
+                        <td align='right'>143547</td>
+                        <td align='right'>71</td>
+                        <td align='right'>912770</td>
+                        <td align='right'>95</td>
+                        <td align='right'>1056317</td>
+                    </tr><tr>
+                        <td nowrap>Canarana</td>
+                        <td align='right'>2</td>
+                        <td align='right'>2540</td>
+                        <td align='right'>23</td>
+                        <td align='right'>769600</td>
+                        <td align='right'>25</td>
+                        <td align='right'>772140</td>
+                    </tr><tr>
+                        <td nowrap>Cláudia</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>16</td>
+                        <td align='right'>362760</td>
+                        <td align='right'>16</td>
+                        <td align='right'>362760</td>
+                    </tr><tr>
+                        <td nowrap>Cocalinho</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>12770</td>
+                        <td align='right'>1</td>
+                        <td align='right'>12770</td>
+                    </tr><tr>
+                        <td nowrap>Colíder</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>3</td>
+                        <td align='right'>17806</td>
+                        <td align='right'>3</td>
+                        <td align='right'>17806</td>
+                    </tr><tr>
+                        <td nowrap>Comodoro</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1080</td>
+                        <td align='right'>7</td>
+                        <td align='right'>143186</td>
+                        <td align='right'>8</td>
+                        <td align='right'>144266</td>
+                    </tr><tr>
+                        <td nowrap>Confresa</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>4</td>
+                        <td align='right'>248020</td>
+                        <td align='right'>4</td>
+                        <td align='right'>248020</td>
+                    </tr><tr>
+                        <td nowrap>Conquista D'Oeste</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>4230</td>
+                        <td align='right'>1</td>
+                        <td align='right'>4230</td>
+                    </tr><tr>
+                        <td nowrap>Cuiabá</td>
+                        <td align='right'>6</td>
+                        <td align='right'>72227</td>
+                        <td align='right'>7</td>
+                        <td align='right'>165034</td>
+                        <td align='right'>13</td>
+                        <td align='right'>237261</td>
+                    </tr><tr>
+                        <td nowrap>Diamantino</td>
+                        <td align='right'>4</td>
+                        <td align='right'>56310</td>
+                        <td align='right'>86</td>
+                        <td align='right'>1145023</td>
+                        <td align='right'>90</td>
+                        <td align='right'>1201333</td>
+                    </tr><tr>
+                        <td nowrap>Dom Aquino</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>9</td>
+                        <td align='right'>43480</td>
+                        <td align='right'>9</td>
+                        <td align='right'>43480</td>
+                    </tr><tr>
+                        <td nowrap>Feliz Natal</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>19</td>
+                        <td align='right'>381122</td>
+                        <td align='right'>19</td>
+                        <td align='right'>381122</td>
+                    </tr><tr>
+                        <td nowrap>Gaúcha do Norte</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>21</td>
+                        <td align='right'>501050</td>
+                        <td align='right'>21</td>
+                        <td align='right'>501050</td>
+                    </tr><tr>
+                        <td nowrap>General Carneiro</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2340</td>
+                        <td align='right'>6</td>
+                        <td align='right'>86640</td>
+                        <td align='right'>7</td>
+                        <td align='right'>88980</td>
+                    </tr><tr>
+                        <td nowrap>Guarantã do Norte</td>
+                        <td align='right'>1</td>
+                        <td align='right'>11790</td>
+                        <td align='right'>1</td>
+                        <td align='right'>11760</td>
+                        <td align='right'>2</td>
+                        <td align='right'>23550</td>
+                    </tr><tr>
+                        <td nowrap>Guiratinga</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>13</td>
+                        <td align='right'>75430</td>
+                        <td align='right'>13</td>
+                        <td align='right'>75430</td>
+                    </tr><tr>
+                        <td nowrap>Ipiranga do Norte</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2250</td>
+                        <td align='right'>62</td>
+                        <td align='right'>904526</td>
+                        <td align='right'>63</td>
+                        <td align='right'>906776</td>
+                    </tr><tr>
+                        <td nowrap>Itanhangá</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>17</td>
+                        <td align='right'>244299</td>
+                        <td align='right'>17</td>
+                        <td align='right'>244299</td>
+                    </tr><tr>
+                        <td nowrap>Itaúba</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>6</td>
+                        <td align='right'>59810</td>
+                        <td align='right'>6</td>
+                        <td align='right'>59810</td>
+                    </tr><tr>
+                        <td nowrap>Itiquira</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1800</td>
+                        <td align='right'>55</td>
+                        <td align='right'>663800</td>
+                        <td align='right'>56</td>
+                        <td align='right'>665600</td>
+                    </tr><tr>
+                        <td nowrap>Jaciara</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1320</td>
+                        <td align='right'>14</td>
+                        <td align='right'>79840</td>
+                        <td align='right'>15</td>
+                        <td align='right'>81160</td>
+                    </tr><tr>
+                        <td nowrap>Juara</td>
+                        <td align='right'>2</td>
+                        <td align='right'>17210</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1950</td>
+                        <td align='right'>3</td>
+                        <td align='right'>19160</td>
+                    </tr><tr>
+                        <td nowrap>Juscimeira</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>9</td>
+                        <td align='right'>71920</td>
+                        <td align='right'>9</td>
+                        <td align='right'>71920</td>
+                    </tr><tr>
+                        <td nowrap>Lucas do Rio Verde</td>
+                        <td align='right'>8</td>
+                        <td align='right'>26050</td>
+                        <td align='right'>76</td>
+                        <td align='right'>1983274</td>
+                        <td align='right'>84</td>
+                        <td align='right'>2009324</td>
+                    </tr><tr>
+                        <td nowrap>Marcelândia</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>3</td>
+                        <td align='right'>104310</td>
+                        <td align='right'>3</td>
+                        <td align='right'>104310</td>
+                    </tr><tr>
+                        <td nowrap>Matupá</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>5</td>
+                        <td align='right'>193330</td>
+                        <td align='right'>5</td>
+                        <td align='right'>193330</td>
+                    </tr><tr>
+                        <td nowrap>Nobres</td>
+                        <td align='right'>2</td>
+                        <td align='right'>3330</td>
+                        <td align='right'>1</td>
+                        <td align='right'>1300</td>
+                        <td align='right'>3</td>
+                        <td align='right'>4630</td>
+                    </tr><tr>
+                        <td nowrap>Nortelândia</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>34090</td>
+                        <td align='right'>2</td>
+                        <td align='right'>34090</td>
+                    </tr><tr>
+                        <td nowrap>Nova Brasilândia</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>8010</td>
+                        <td align='right'>1</td>
+                        <td align='right'>8010</td>
+                    </tr><tr>
+                        <td nowrap>Nova Canaã do Norte</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>3</td>
+                        <td align='right'>25830</td>
+                        <td align='right'>3</td>
+                        <td align='right'>25830</td>
+                    </tr><tr>
+                        <td nowrap>Nova Guarita</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>38670</td>
+                        <td align='right'>2</td>
+                        <td align='right'>38670</td>
+                    </tr><tr>
+                        <td nowrap>Nova Lacerda</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>12330</td>
+                        <td align='right'>1</td>
+                        <td align='right'>12330</td>
+                    </tr><tr>
+                        <td nowrap>Nova Maringá</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>13</td>
+                        <td align='right'>320313</td>
+                        <td align='right'>13</td>
+                        <td align='right'>320313</td>
+                    </tr><tr>
+                        <td nowrap>Nova Mutum</td>
+                        <td align='right'>9</td>
+                        <td align='right'>40787</td>
+                        <td align='right'>104</td>
+                        <td align='right'>1542337</td>
+                        <td align='right'>113</td>
+                        <td align='right'>1583124</td>
+                    </tr><tr>
+                        <td nowrap>Nova Olímpia</td>
+                        <td align='right'>1</td>
+                        <td align='right'>35140</td>
+                        <td align='right'>1</td>
+                        <td align='right'>31770</td>
+                        <td align='right'>2</td>
+                        <td align='right'>66910</td>
+                    </tr><tr>
+                        <td nowrap>Nova Santa Helena</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>82930</td>
+                        <td align='right'>2</td>
+                        <td align='right'>82930</td>
+                    </tr><tr>
+                        <td nowrap>Nova Ubiratã</td>
+                        <td align='right'>2</td>
+                        <td align='right'>10191</td>
+                        <td align='right'>52</td>
+                        <td align='right'>1105650</td>
+                        <td align='right'>54</td>
+                        <td align='right'>1115841</td>
+                    </tr><tr>
+                        <td nowrap>Nova Xavantina</td>
+                        <td align='right'>5</td>
+                        <td align='right'>22456</td>
+                        <td align='right'>10</td>
+                        <td align='right'>103310</td>
+                        <td align='right'>15</td>
+                        <td align='right'>125766</td>
+                    </tr><tr>
+                        <td nowrap>Novo Mundo</td>
+                        <td align='right'>1</td>
+                        <td align='right'>4950</td>
+                        <td align='right'>4</td>
+                        <td align='right'>83670</td>
+                        <td align='right'>5</td>
+                        <td align='right'>88620</td>
+                    </tr><tr>
+                        <td nowrap>Novo São Joaquim</td>
+                        <td align='right'>3</td>
+                        <td align='right'>5240</td>
+                        <td align='right'>14</td>
+                        <td align='right'>77510</td>
+                        <td align='right'>17</td>
+                        <td align='right'>82750</td>
+                    </tr><tr>
+                        <td nowrap>Paranaíta</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>5940</td>
+                        <td align='right'>1</td>
+                        <td align='right'>5940</td>
+                    </tr><tr>
+                        <td nowrap>Paranatinga</td>
+                        <td align='right'>11</td>
+                        <td align='right'>26634</td>
+                        <td align='right'>11</td>
+                        <td align='right'>174021</td>
+                        <td align='right'>22</td>
+                        <td align='right'>200655</td>
+                    </tr><tr>
+                        <td nowrap>Pedra Preta</td>
+                        <td align='right'>17</td>
+                        <td align='right'>108870</td>
+                        <td align='right'>13</td>
+                        <td align='right'>90464</td>
+                        <td align='right'>30</td>
+                        <td align='right'>199334</td>
+                    </tr><tr>
+                        <td nowrap>Planalto da Serra</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>4</td>
+                        <td align='right'>58550</td>
+                        <td align='right'>4</td>
+                        <td align='right'>58550</td>
+                    </tr><tr>
+                        <td nowrap>Pontes e Lacerda</td>
+                        <td align='right'>1</td>
+                        <td align='right'>7020</td>
+                        <td align='right'>2</td>
+                        <td align='right'>35980</td>
+                        <td align='right'>3</td>
+                        <td align='right'>43000</td>
+                    </tr><tr>
+                        <td nowrap>Porto Alegre do Norte</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>5</td>
+                        <td align='right'>145110</td>
+                        <td align='right'>5</td>
+                        <td align='right'>145110</td>
+                    </tr><tr>
+                        <td nowrap>Porto dos Gaúchos</td>
+                        <td align='right'>1</td>
+                        <td align='right'>6750</td>
+                        <td align='right'>28</td>
+                        <td align='right'>497683</td>
+                        <td align='right'>29</td>
+                        <td align='right'>504433</td>
+                    </tr><tr>
+                        <td nowrap>Poxoréo</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>17</td>
+                        <td align='right'>180210</td>
+                        <td align='right'>17</td>
+                        <td align='right'>180210</td>
+                    </tr><tr>
+                        <td nowrap>Primavera do Leste</td>
+                        <td align='right'>19</td>
+                        <td align='right'>80250</td>
+                        <td align='right'>109</td>
+                        <td align='right'>2330396</td>
+                        <td align='right'>128</td>
+                        <td align='right'>2410646</td>
+                    </tr><tr>
+                        <td nowrap>Querência</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>40</td>
+                        <td align='right'>1224727</td>
+                        <td align='right'>40</td>
+                        <td align='right'>1224727</td>
+                    </tr><tr>
+                        <td nowrap>Ribeirão Cascalheira</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>9</td>
+                        <td align='right'>178040</td>
+                        <td align='right'>9</td>
+                        <td align='right'>178040</td>
+                    </tr><tr>
+                        <td nowrap>Rondonópolis</td>
+                        <td align='right'>18</td>
+                        <td align='right'>135272</td>
+                        <td align='right'>51</td>
+                        <td align='right'>1277869</td>
+                        <td align='right'>69</td>
+                        <td align='right'>1413141</td>
+                    </tr><tr>
+                        <td nowrap>Rosário Oeste</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>13801</td>
+                        <td align='right'>1</td>
+                        <td align='right'>13801</td>
+                    </tr><tr>
+                        <td nowrap>Santa Carmem</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>17</td>
+                        <td align='right'>322010</td>
+                        <td align='right'>17</td>
+                        <td align='right'>322010</td>
+                    </tr><tr>
+                        <td nowrap>Santa Cruz do Xingu</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>5</td>
+                        <td align='right'>92600</td>
+                        <td align='right'>5</td>
+                        <td align='right'>92600</td>
+                    </tr><tr>
+                        <td nowrap>Santa Rita do Trivelato</td>
+                        <td align='right'>1</td>
+                        <td align='right'>570</td>
+                        <td align='right'>37</td>
+                        <td align='right'>515224</td>
+                        <td align='right'>38</td>
+                        <td align='right'>515794</td>
+                    </tr><tr>
+                        <td nowrap>Santa Terezinha</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>5</td>
+                        <td align='right'>112890</td>
+                        <td align='right'>5</td>
+                        <td align='right'>112890</td>
+                    </tr><tr>
+                        <td nowrap>Santo Antônio do Leste</td>
+                        <td align='right'>2</td>
+                        <td align='right'>7200</td>
+                        <td align='right'>24</td>
+                        <td align='right'>370270</td>
+                        <td align='right'>26</td>
+                        <td align='right'>377470</td>
+                    </tr><tr>
+                        <td nowrap>Santo Antônio do Leverger</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>86730</td>
+                        <td align='right'>2</td>
+                        <td align='right'>86730</td>
+                    </tr><tr>
+                        <td nowrap>São Félix do Araguaia</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>15</td>
+                        <td align='right'>633433</td>
+                        <td align='right'>15</td>
+                        <td align='right'>633433</td>
+                    </tr><tr>
+                        <td nowrap>São José do Rio Claro</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>16</td>
+                        <td align='right'>262320</td>
+                        <td align='right'>16</td>
+                        <td align='right'>262320</td>
+                    </tr><tr>
+                        <td nowrap>São José do Xingu</td>
+                        <td align='right'>1</td>
+                        <td align='right'>4680</td>
+                        <td align='right'>8</td>
+                        <td align='right'>156750</td>
+                        <td align='right'>9</td>
+                        <td align='right'>161430</td>
+                    </tr><tr>
+                        <td nowrap>Sapezal</td>
+                        <td align='right'>6</td>
+                        <td align='right'>21628</td>
+                        <td align='right'>80</td>
+                        <td align='right'>1576654</td>
+                        <td align='right'>86</td>
+                        <td align='right'>1598282</td>
+                    </tr><tr>
+                        <td nowrap>Sinop</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>53</td>
+                        <td align='right'>1574525</td>
+                        <td align='right'>53</td>
+                        <td align='right'>1574525</td>
+                    </tr><tr>
+                        <td nowrap>Sorriso</td>
+                        <td align='right'>20</td>
+                        <td align='right'>158777</td>
+                        <td align='right'>220</td>
+                        <td align='right'>4496644</td>
+                        <td align='right'>240</td>
+                        <td align='right'>4655421</td>
+                    </tr><tr>
+                        <td nowrap>Tabaporã</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>22</td>
+                        <td align='right'>333139</td>
+                        <td align='right'>22</td>
+                        <td align='right'>333139</td>
+                    </tr><tr>
+                        <td nowrap>Tangará da Serra</td>
+                        <td align='right'>1</td>
+                        <td align='right'>470</td>
+                        <td align='right'>20</td>
+                        <td align='right'>395950</td>
+                        <td align='right'>21</td>
+                        <td align='right'>396420</td>
+                    </tr><tr>
+                        <td nowrap>Tapurah</td>
+                        <td align='right'>4</td>
+                        <td align='right'>15010</td>
+                        <td align='right'>33</td>
+                        <td align='right'>671444</td>
+                        <td align='right'>37</td>
+                        <td align='right'>686454</td>
+                    </tr><tr>
+                        <td nowrap>Terra Nova do Norte</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>47520</td>
+                        <td align='right'>2</td>
+                        <td align='right'>47520</td>
+                    </tr><tr>
+                        <td nowrap>Tesouro</td>
+                        <td align='right'>3</td>
+                        <td align='right'>9270</td>
+                        <td align='right'>13</td>
+                        <td align='right'>203400</td>
+                        <td align='right'>16</td>
+                        <td align='right'>212670</td>
+                    </tr><tr>
+                        <td nowrap>União do Sul</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>10</td>
+                        <td align='right'>168230</td>
+                        <td align='right'>10</td>
+                        <td align='right'>168230</td>
+                    </tr><tr>
+                        <td nowrap>Vale de São Domingos</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>1</td>
+                        <td align='right'>11710</td>
+                        <td align='right'>1</td>
+                        <td align='right'>11710</td>
+                    </tr><tr>
+                        <td nowrap>Várzea Grande</td>
+                        <td align='right'>9</td>
+                        <td align='right'>88865</td>
+                        <td align='right'>13</td>
+                        <td align='right'>105416</td>
+                        <td align='right'>22</td>
+                        <td align='right'>194281</td>
+                    </tr><tr>
+                        <td nowrap>Vera</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>24</td>
+                        <td align='right'>401760</td>
+                        <td align='right'>24</td>
+                        <td align='right'>401760</td>
+                    </tr><tr>
+                        <td nowrap>Vila Bela da Santíssima Trindade</td>
+                        <td align='right'>2</td>
+                        <td align='right'>8707</td>
+                        <td align='right'>3</td>
+                        <td align='right'>25720</td>
+                        <td align='right'>5</td>
+                        <td align='right'>34427</td>
+                    </tr><tr>
+                        <td nowrap>Vila Rica</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2250</td>
+                        <td align='right'>5</td>
+                        <td align='right'>54880</td>
+                        <td align='right'>6</td>
+                        <td align='right'>57130</td>
+                    </tr><tr>
+                        <td nowrap><div align="center"><b>Total Geral</b></div></td>
+                        <td align='right'><b>246<b></td>
+                        <td align='right'><b>1454626<b></td>
+                        <td align='right'><b>1953<b></td>
+                        <td align='right'><b>36353461<b></td>
+                        <td align='right'><b>2199<b></td>
+                        <td align='right'><b>37808087<b></td>
+                    </tr></table></body>
+</html>

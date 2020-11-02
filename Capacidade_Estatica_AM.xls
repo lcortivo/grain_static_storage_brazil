@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Conab - Companhia Nacional de Abastecimento</title>
+</head>
+<body><table	align="center" width="95%" cellpadding="2" cellspacing="2" rules="all" style="font-size:9px; border-bottom-color:{$this->borderColor}; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-left-color:{$this->borderColor}; border-left-style:solid; border-left-width:1px; border-right-color:{$this->borderColor};border-right-style:solid; border-right-width:1px; border-top-color:{$this->borderColor}; border-top-style:solid;border-top-width:1px;" border="1" >
+                    <thead>
+                    <tr>
+    <td colspan="7" align="center" style="background-color:#FFFFFF; color:#000000; font-size:9px;">
+        <span>
+        <table width="95%" border="0px" style="text-align : center; font-size:9px;">
+            <tr>
+                <td width="15%" rowspan="3" valign="top">
+                    <div align="left">
+                        <img src=http://sisdep.conab.gov.br/capacidadeestatica//common/images/Conab.jpg alt="" style="border-width:0px;" />
+                    </div>
+                </td>
+                <td width="75%" align="center">
+                    <span><strong><span style="font-size:14px;">Mapa da Capacidade Estática dos Armazéns</span></strong></span>
+                </td>
+                <td width="10%" rowspan="3">
+                    <span><strong>04/10/2019<br>13:11:12</strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong><span style="font-size:12px;"><table width="100%" style="width: 100%"><tr><td align='right'>Região:</td><td align='left'>Norte</td></tr><tr><td align='right'>UF:</td><td align='left'>AM</td></tr></table></span></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <span><strong></strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" align="center">
+                    <div align="center">
+                        <span><strong></strong></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        </span>
+    </td>
+</tr>
+                    <tr>
+                        <th rowspan="2" align="center">Município</th>
+                        <th colspan="2" align="center">Convencional</th>
+                        <th colspan="2" align="center">Granel</th>
+                        <th colspan="2" align="center">Total</th>
+                    </tr>
+                    <tr>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                        <th align="center">Quantidade</th>
+                        <th align="center">Capacidade (t)</th>
+                    </tr>
+                    </thead><tr>
+                        <td nowrap>Coari</td>
+                        <td align='right'>2</td>
+                        <td align='right'>3190</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>3190</td>
+                    </tr><tr>
+                        <td nowrap>Envira</td>
+                        <td align='right'>2</td>
+                        <td align='right'>4154</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>2</td>
+                        <td align='right'>4154</td>
+                    </tr><tr>
+                        <td nowrap>Humaitá</td>
+                        <td align='right'>2</td>
+                        <td align='right'>6075</td>
+                        <td align='right'>1</td>
+                        <td align='right'>2362</td>
+                        <td align='right'>3</td>
+                        <td align='right'>8437</td>
+                    </tr><tr>
+                        <td nowrap>Itacoatiara</td>
+                        <td align='right'>1</td>
+                        <td align='right'>4540</td>
+                        <td align='right'>4</td>
+                        <td align='right'>306630</td>
+                        <td align='right'>5</td>
+                        <td align='right'>311170</td>
+                    </tr><tr>
+                        <td nowrap>Manacapuru</td>
+                        <td align='right'>4</td>
+                        <td align='right'>8314</td>
+                        <td align='right'></td>
+                        <td align='right'></td>
+                        <td align='right'>4</td>
+                        <td align='right'>8314</td>
+                    </tr><tr>
+                        <td nowrap>Manaus</td>
+                        <td align='right'>6</td>
+                        <td align='right'>10859</td>
+                        <td align='right'>3</td>
+                        <td align='right'>2906</td>
+                        <td align='right'>9</td>
+                        <td align='right'>13765</td>
+                    </tr><tr>
+                        <td nowrap><div align="center"><b>Total Geral</b></div></td>
+                        <td align='right'><b>17<b></td>
+                        <td align='right'><b>37132<b></td>
+                        <td align='right'><b>8<b></td>
+                        <td align='right'><b>311898<b></td>
+                        <td align='right'><b>25<b></td>
+                        <td align='right'><b>349030<b></td>
+                    </tr></table></body>
+</html>
